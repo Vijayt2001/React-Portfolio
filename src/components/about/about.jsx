@@ -41,7 +41,7 @@ const about = () => {
     </div>
 
 
-    <p> I'm a junior at San Francisco State University and majoring in Computer science. Learning about the latest tech, software, and computers has been my passion, and learning new topics and grow my knowledge in various fields is my goal. I've enrolled in computer science-related clubs and organizations like the AI club and Code good 2021 and I'm enrolled in a program called CTI Accelerate at California State University Monterey Bay. Currently, I have knowledge in C++ object-oriented programming, SQL, and basic knowledge in Swift, Python, and java.
+    <p> I'm a recent a graduate from San Francisco State University with a Bachelor's degree in Computer Science. Learning about the latest tech, software, and computers has been my passion, and learning new topics and grow my knowledge in various fields is my goal. I've enrolled in computer science-related clubs and organizations like the AI club and Code good 2021 and I'm enrolled in a program called CTI Accelerate at California State University Monterey Bay. Currently, I have knowledge in C++ object-oriented programming, SQL, and basic knowledge in Swift, Python, and java.
 I'm looking for any kind of job or internship to gain experience and knowledge.</p>
 
     <a href="#contact" className='btn btn-primary '> Let's Talk</a>

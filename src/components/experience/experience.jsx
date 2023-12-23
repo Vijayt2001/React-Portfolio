@@ -59,7 +59,7 @@ const experience = () => {
             </article>
           </div>
 
-
+ 
         </div>
         <div className="experience__backend">
 
@@ -74,6 +74,12 @@ const experience = () => {
             <article className='experience__details'>
               <BsFillPatchCheckFill className='experience__detials-icon'/>
               <div><h4>Node JS </h4>
+              <small className='text-light'>Experienced</small></div>
+            </article>
+
+            <article className='experience__details'>
+              <BsFillPatchCheckFill className='experience__detials-icon'/>
+              <div><h4>Postgres </h4>
               <small className='text-light'>Experienced</small></div>
             </article>
 
